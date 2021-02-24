@@ -84,7 +84,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"lecture"
+                 "value":"slugified"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -102,7 +102,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Breakoutroom1"
+                 "value":"slugified"
                 }],
          "type":"tilelayer",
          "visible":true,
