@@ -26,11 +26,6 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Breakout 1"
-                }, 
-                {
-                 "name":"jitsiTrigger: onaction",
-                 "type":"string",
-                 "value":"trigger"
                 }],
          "type":"tilelayer",
          "visible":true,
