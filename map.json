@@ -968,6 +968,19 @@
          "tilecount":400,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":24,
+         "firstgid":2069,
+         "image":"..\/..\/..\/Pictures\/Tilesets\/Library\/school_b_tileset_rpgmaker_mv_by_alilali_dc6ltva.png",
+         "imageheight":768,
+         "imagewidth":768,
+         "margin":0,
+         "name":"school_b_tileset_rpgmaker_mv_by_alilali_dc6ltva",
+         "spacing":0,
+         "tilecount":576,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
